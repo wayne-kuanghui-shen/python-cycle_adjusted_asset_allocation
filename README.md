@@ -18,5 +18,7 @@
 
 ## 💡 Highlights 
 
-<img src="https://github.com/wayne-kuanghui-shen/python_cycle-adjusted-asset-allocation/blob/main/highlights/four-cycles.png" width="500" > <img src="https://github.com/wayne-kuanghui-shen/python_cycle-adjusted-asset-allocation/blob/main/highlights/cumulative-returns.png" width="500" >
-<img src="https://github.com/wayne-kuanghui-shen/python_cycle-adjusted-asset-allocation/blob/main/highlights/within-cycle-return.png" width="500" > <img src="https://github.com/wayne-kuanghui-shen/python_cycle-adjusted-asset-allocation/blob/main/highlights/portfolio_allocations.png" width="500" >
+<img src="https://github.com/wayne-kuanghui-shen/python_cycle-adjusted-asset-allocation/blob/main/highlights/four-cycles.png" > 
+<img src="https://github.com/wayne-kuanghui-shen/python_cycle-adjusted-asset-allocation/blob/main/highlights/within-cycle-return.png"> 
+<img src="https://github.com/wayne-kuanghui-shen/python_cycle-adjusted-asset-allocation/blob/main/highlights/portfolio_allocations.png">
+<img src="https://github.com/wayne-kuanghui-shen/python_cycle-adjusted-asset-allocation/blob/main/highlights/cumulative-returns.png">
